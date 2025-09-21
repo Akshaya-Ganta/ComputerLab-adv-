@@ -1,0 +1,11 @@
+Model Information:
+* title:	Computer Lab
+* source:	https://sketchfab.com/3d-models/computer-lab-ea91357f89af47de9a1fe6c399d7ce27
+* author:	niiapa (https://sketchfab.com/niiapa)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Computer Lab" (https://sketchfab.com/3d-models/computer-lab-ea91357f89af47de9a1fe6c399d7ce27) by niiapa (https://sketchfab.com/niiapa) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
